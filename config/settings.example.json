@@ -1,0 +1,13 @@
+{
+  "output_folder": "",
+  "device": "auto",
+  "language": "vi",
+  "gemini_key": "",
+  "mistral_key": "",
+  "openai_key": "",
+  "together_key": "",
+  "pixabay_key": "",
+  "hf_token": "",
+  "offline_mode": false
+}
+

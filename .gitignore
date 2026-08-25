@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and packaging
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and per-user sessions
+config/*.json
+!config/settings.example.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Downloaded models and private/reference voices
+data/models/
+data/voices/
+
+# User media, generated output and logs
+output/
+outputs/
+logs/
+temp/
+tmp/
+*.log
+*.tmp
+*.part
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.srt
+*.vtt
+
+# Local Story Maker assets (may contain copyrighted/user media)
+assets/intro/*
+assets/outro/*
+assets/overlays/*
+
+# Local audit/debug artifacts
+_debug_clean.py
+hemtruyen_chapter.html
+

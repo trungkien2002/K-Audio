@@ -1,0 +1,41 @@
+# K-Audio runtime dependencies
+# GUI
+PySide6>=6.5
+
+# Web scraping (Crawl)
+requests>=2.28
+beautifulsoup4>=4.12
+lxml>=4.9
+cloudscraper>=1.2
+
+# File reading
+chardet>=5.0
+ebooklib>=0.18
+python-docx>=0.8
+PyMuPDF>=1.23
+
+# TTS — Edge + Google
+edge-tts>=6.1
+gTTS>=2.3
+
+# TTS — OmniVoice (local inference)
+torch>=2.0
+torchaudio>=2.0
+soundfile>=0.12
+numpy>=1.24
+transformers>=4.38
+tqdm>=4.65
+sentencepiece>=0.1
+accelerate>=0.26
+safetensors>=0.4
+librosa>=0.10
+
+# Multi-Speaker
+faster-whisper>=0.10
+# pyannote.audio>=3.1
+
+# AI Story Maker
+# openai>=1.0
+
+# Utilities
+colorama>=0.4
