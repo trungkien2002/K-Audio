@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.160 --> 00:00:03.310 align:start position:0%
+ 
+Tôi<00:00:00.399><c> cần</c><00:00:00.599><c> nuôi</c><00:00:00.919><c> con</c><00:00:01.480><c> và</c><00:00:01.719><c> cảm</c><00:00:01.959><c> thấy</c><00:00:02.240><c> rất</c><00:00:02.520><c> sợ</c><00:00:03.080><c> và</c>
+
+00:00:03.310 --> 00:00:03.320 align:start position:0%
+Tôi cần nuôi con và cảm thấy rất sợ và
+ 
+
+00:00:03.320 --> 00:00:06.319 align:start position:0%
+Tôi cần nuôi con và cảm thấy rất sợ và
+bối<00:00:03.639><c> rối.</c>
+

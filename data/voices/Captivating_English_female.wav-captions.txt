@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.710 align:start position:0%
+ 
+In<00:00:00.400><c> other</c><00:00:00.640><c> words,</c><00:00:01.280><c> when</c><00:00:01.520><c> you</c><00:00:01.680><c> see</c><00:00:01.839><c> an</c><00:00:02.080><c> image,</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+In other words, when you see an image,
+ 
+
+00:00:02.720 --> 00:00:05.430 align:start position:0%
+In other words, when you see an image,
+you<00:00:02.960><c> feel</c><00:00:03.200><c> it</c><00:00:03.760><c> but</c><00:00:04.000><c> are</c><00:00:04.240><c> not</c><00:00:04.480><c> necessarily</c><00:00:05.120><c> able</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+you feel it but are not necessarily able
+ 
+
+00:00:05.440 --> 00:00:08.640 align:start position:0%
+you feel it but are not necessarily able
+to<00:00:05.680><c> describe</c><00:00:06.080><c> it.</c>
+

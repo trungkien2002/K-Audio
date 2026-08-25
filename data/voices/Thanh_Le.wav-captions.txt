@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.040 --> 00:00:02.310 align:start position:0%
+ 
+Tôi<00:00:00.199><c> tin</c><00:00:00.359><c> em</c><00:00:00.560><c> gái</c><00:00:00.799><c> cũng</c><00:00:00.960><c> không</c><00:00:01.199><c> so</c><00:00:01.400><c> đo</c><00:00:01.839><c> từng</c><00:00:02.080><c> ly</c>
+
+00:00:02.310 --> 00:00:02.320 align:start position:0%
+Tôi tin em gái cũng không so đo từng ly
+ 
+
+00:00:02.320 --> 00:00:05.399 align:start position:0%
+Tôi tin em gái cũng không so đo từng ly
+từng<00:00:02.560><c> tí</c><00:00:02.800><c> với</c><00:00:02.960><c> tôi</c><00:00:03.240><c> đâu.</c>
+

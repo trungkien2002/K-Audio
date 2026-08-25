@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.230 align:start position:0%
+ 
+And<00:00:00.320><c> the</c><00:00:00.560><c> prompt</c><00:00:00.880><c> adherence</c><00:00:01.439><c> is</c><00:00:01.680><c> the</c><00:00:01.920><c> biggest</c>
+
+00:00:02.230 --> 00:00:02.240 align:start position:0%
+And the prompt adherence is the biggest
+ 
+
+00:00:02.240 --> 00:00:04.390 align:start position:0%
+And the prompt adherence is the biggest
+tell.<00:00:02.720><c> I'll</c><00:00:03.040><c> say</c><00:00:03.280><c> the</c><00:00:03.520><c> cars</c><00:00:03.919><c> remain</c>
+
+00:00:04.390 --> 00:00:04.400 align:start position:0%
+tell. I'll say the cars remain
+ 
+
+00:00:04.400 --> 00:00:08.230 align:start position:0%
+tell. I'll say the cars remain
+stationary<00:00:05.440><c> and</c><00:00:05.759><c> get</c><00:00:06.080><c> moving</c><00:00:06.560><c> cars.</c><00:00:07.919><c> Sea</c>
+
+00:00:08.230 --> 00:00:08.240 align:start position:0%
+stationary and get moving cars. Sea
+ 
+
+00:00:08.240 --> 00:00:11.190 align:start position:0%
+stationary and get moving cars. Sea
+dance<00:00:08.639><c> was</c><00:00:08.960><c> way</c><00:00:09.200><c> better</c><00:00:09.440><c> at</c><00:00:09.760><c> launch.</c><00:00:10.639><c> Anyone</c>
+
+00:00:11.190 --> 00:00:11.200 align:start position:0%
+dance was way better at launch. Anyone
+ 
+
+00:00:11.200 --> 00:00:13.599 align:start position:0%
+dance was way better at launch. Anyone
+else?
+

@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:02.710 align:start position:0%
+ 
+Biết<00:00:00.440><c> lại</c><00:00:00.680><c> là</c><00:00:00.880><c> con</c><00:00:01.079><c> trai,</c><00:00:01.719><c> tảng</c><00:00:02.000><c> đá</c><00:00:02.240><c> trong</c><00:00:02.440><c> lòng</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+Biết lại là con trai, tảng đá trong lòng
+ 
+
+00:00:02.720 --> 00:00:05.550 align:start position:0%
+Biết lại là con trai, tảng đá trong lòng
+Trương<00:00:02.960><c> Tú</c><00:00:03.199><c> Hòa</c><00:00:03.520><c> mới</c><00:00:03.760><c> rơi</c><00:00:04.040><c> xuống.</c><00:00:04.799><c> Tuy</c><00:00:05.040><c> lứa</c><00:00:05.319><c> đầu</c>
+
+00:00:05.550 --> 00:00:05.560 align:start position:0%
+Trương Tú Hòa mới rơi xuống. Tuy lứa đầu
+ 
+
+00:00:05.560 --> 00:00:08.270 align:start position:0%
+Trương Tú Hòa mới rơi xuống. Tuy lứa đầu
+đã<00:00:05.720><c> là</c><00:00:05.920><c> con</c><00:00:06.160><c> trai</c><00:00:06.520><c> nhưng</c><00:00:06.759><c> ở</c><00:00:06.919><c> cái</c><00:00:07.120><c> thời</c><00:00:07.319><c> này</c><00:00:08.080><c> ai</c>
+
+00:00:08.270 --> 00:00:08.280 align:start position:0%
+đã là con trai nhưng ở cái thời này ai
+ 
+
+00:00:08.280 --> 00:00:12.440 align:start position:0%
+đã là con trai nhưng ở cái thời này ai
+mà<00:00:08.519><c> chê</c><00:00:08.760><c> con</c><00:00:08.960><c> trai</c><00:00:09.240><c> nhiều</c><00:00:09.480><c> cơ</c><00:00:09.719><c> chứ.</c><00:00:10.240><c> M.</c>
+

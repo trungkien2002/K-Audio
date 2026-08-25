@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:01.990 align:start position:0%
+ 
+Việc<00:00:00.440><c> của</c><00:00:00.560><c> tập</c><00:00:00.799><c> thể</c><00:00:00.960><c> dù</c><00:00:01.199><c> nhỏ</c><00:00:01.439><c> cũng</c><00:00:01.640><c> là</c><00:00:01.800><c> việc</c>
+
+00:00:01.990 --> 00:00:02.000 align:start position:0%
+Việc của tập thể dù nhỏ cũng là việc
+ 
+
+00:00:02.000 --> 00:00:04.510 align:start position:0%
+Việc của tập thể dù nhỏ cũng là việc
+lớn,<00:00:02.600><c> việc</c><00:00:02.800><c> của</c><00:00:02.960><c> cá</c><00:00:03.199><c> nhân</c><00:00:03.399><c> dù</c><00:00:03.639><c> lớn</c><00:00:03.919><c> cũng</c><00:00:04.160><c> chỉ</c><00:00:04.359><c> là</c>
+
+00:00:04.510 --> 00:00:04.520 align:start position:0%
+lớn, việc của cá nhân dù lớn cũng chỉ là
+ 
+
+00:00:04.520 --> 00:00:07.319 align:start position:0%
+lớn, việc của cá nhân dù lớn cũng chỉ là
+việc<00:00:04.720><c> nhỏ.</c>
+

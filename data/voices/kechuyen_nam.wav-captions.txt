@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.320 --> 00:00:03.149 align:start position:0%
+ 
+Hai<00:00:00.560><c> ngày</c><00:00:00.799><c> nữa</c><00:00:01.480><c> là</c><00:00:01.719><c> tròn</c><00:00:02.159><c> một</c><00:00:02.399><c> tháng</c><00:00:02.879><c> triển</c>
+
+00:00:03.149 --> 00:00:03.159 align:start position:0%
+Hai ngày nữa là tròn một tháng triển
+ 
+
+00:00:03.159 --> 00:00:05.749 align:start position:0%
+Hai ngày nữa là tròn một tháng triển
+khai<00:00:03.480><c> khóa</c><00:00:03.719><c> học</c><00:00:03.959><c> tiên</c><00:00:04.240><c> phong,</c><00:00:04.960><c> hướng</c><00:00:05.240><c> dẫn</c><00:00:05.520><c> sản</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+khai khóa học tiên phong, hướng dẫn sản
+ 
+
+00:00:05.759 --> 00:00:08.350 align:start position:0%
+khai khóa học tiên phong, hướng dẫn sản
+xuất<00:00:06.000><c> hình</c><00:00:06.279><c> ảnh</c><00:00:06.640><c> và</c><00:00:07.080><c> video</c><00:00:07.520><c> quảng</c><00:00:07.799><c> cáo</c><00:00:08.120><c> siêu</c>
+
+00:00:08.350 --> 00:00:08.360 align:start position:0%
+xuất hình ảnh và video quảng cáo siêu
+ 
+
+00:00:08.360 --> 00:00:10.669 align:start position:0%
+xuất hình ảnh và video quảng cáo siêu
+thực<00:00:08.960><c> phục</c><00:00:09.240><c> vụ</c><00:00:09.480><c> truyền</c><00:00:09.800><c> thông</c><00:00:10.080><c> marketing.</c>
+
+00:00:10.669 --> 00:00:10.679 align:start position:0%
+thực phục vụ truyền thông marketing.
+ 
+
+00:00:10.679 --> 00:00:12.800 align:start position:0%
+thực phục vụ truyền thông marketing.
+Yeah.
+

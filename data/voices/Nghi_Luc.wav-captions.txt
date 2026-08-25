@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.280 --> 00:00:02.590 align:start position:0%
+ 
+Nữ<00:00:00.440><c> họa</c><00:00:00.680><c> sĩ</c><00:00:00.919><c> người</c><00:00:01.079><c> Thụy</c><00:00:01.319><c> Sĩ</c><00:00:01.560><c> không</c><00:00:01.719><c> lấy</c><00:00:01.959><c> chồng,</c>
+
+00:00:02.590 --> 00:00:02.600 align:start position:0%
+Nữ họa sĩ người Thụy Sĩ không lấy chồng,
+ 
+
+00:00:02.600 --> 00:00:04.789 align:start position:0%
+Nữ họa sĩ người Thụy Sĩ không lấy chồng,
+quyết<00:00:02.840><c> định</c><00:00:03.000><c> gắn</c><00:00:03.240><c> bó</c><00:00:03.480><c> với</c><00:00:03.679><c> Việt</c><00:00:03.879><c> Nam</c><00:00:04.080><c> suốt</c><00:00:04.359><c> 33</c>
+
+00:00:04.789 --> 00:00:04.799 align:start position:0%
+quyết định gắn bó với Việt Nam suốt 33
+ 
+
+00:00:04.799 --> 00:00:08.319 align:start position:0%
+quyết định gắn bó với Việt Nam suốt 33
+năm<00:00:05.040><c> vì</c><00:00:05.279><c> một</c><00:00:05.480><c> lý</c><00:00:05.640><c> do</c><00:00:05.799><c> đặc</c><00:00:06.040><c> biệt.</c>
+

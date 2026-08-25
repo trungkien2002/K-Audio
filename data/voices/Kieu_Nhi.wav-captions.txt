@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.160 --> 00:00:01.910 align:start position:0%
+ 
+Bà<00:00:00.359><c> nội</c><00:00:00.560><c> bưng</c><00:00:00.760><c> bát</c><00:00:00.960><c> trứng</c><00:00:01.160><c> gà</c><00:00:01.319><c> thơm</c><00:00:01.520><c> phứ</c><00:00:01.760><c> sang</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+Bà nội bưng bát trứng gà thơm phứ sang
+ 
+
+00:00:01.920 --> 00:00:03.869 align:start position:0%
+Bà nội bưng bát trứng gà thơm phứ sang
+phòng<00:00:02.120><c> thím</c><00:00:02.360><c> ba</c><00:00:02.560><c> rồi,</c><00:00:02.919><c> chẳng</c><00:00:03.159><c> để</c><00:00:03.320><c> phần</c><00:00:03.520><c> cho</c><00:00:03.679><c> mẹ</c>
+
+00:00:03.869 --> 00:00:03.879 align:start position:0%
+phòng thím ba rồi, chẳng để phần cho mẹ
+ 
+
+00:00:03.879 --> 00:00:06.720 align:start position:0%
+phòng thím ba rồi, chẳng để phần cho mẹ
+tí<00:00:04.080><c> nào</c><00:00:04.319><c> cả.</c>
+

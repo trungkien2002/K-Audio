@@ -22,4 +22,6 @@ Packages in `requirements.txt`, FFmpeg, API providers and web services retain th
 
 ## Content and voice rights
 
-No rights are granted to crawl, reproduce, synthesize, clone, publish or monetize third-party stories, translations, websites, voices, music, images or video. Obtain authorization and consent before use.
+The repository includes default reference-voice profiles in `data/voices` for use by K-Audio. These audio and metadata files are not model weights and are not automatically covered by the Apache-2.0 software license. Voice, likeness, privacy and dataset rights may apply independently. Do not impersonate a person, redistribute a voice dataset, or use a voice commercially unless you have the necessary authorization and consent.
+
+No rights are granted to crawl, reproduce, synthesize, publish or monetize third-party stories, translations, websites, music, images or video. Obtain authorization before use.

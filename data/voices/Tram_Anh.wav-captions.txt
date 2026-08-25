@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.199 --> 00:00:02.470 align:start position:0%
+ 
+Mặc<00:00:00.399><c> kệ</c><00:00:00.599><c> Triệu</c><00:00:00.799><c> Hồng</c><00:00:00.960><c> anh</c><00:00:01.160><c> nói</c><00:00:01.360><c> gì,</c><00:00:02.080><c> Viên</c><00:00:02.280><c> Lai</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+Mặc kệ Triệu Hồng anh nói gì, Viên Lai
+ 
+
+00:00:02.480 --> 00:00:04.309 align:start position:0%
+Mặc kệ Triệu Hồng anh nói gì, Viên Lai
+Đệ<00:00:02.720><c> cũng</c><00:00:02.840><c> chỉ</c><00:00:03.040><c> biết</c><00:00:03.240><c> gật</c><00:00:03.439><c> đầu</c><00:00:03.639><c> vâng</c><00:00:03.879><c> dạ</c><00:00:04.120><c> ra</c>
+
+00:00:04.309 --> 00:00:04.319 align:start position:0%
+Đệ cũng chỉ biết gật đầu vâng dạ ra
+ 
+
+00:00:04.319 --> 00:00:07.759 align:start position:0%
+Đệ cũng chỉ biết gật đầu vâng dạ ra
+triều<00:00:04.640><c> tính</c><00:00:04.799><c> tình</c><00:00:05.040><c> hiền</c><00:00:05.240><c> lành.</c>
+

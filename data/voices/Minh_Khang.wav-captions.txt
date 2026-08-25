@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:02.230 align:start position:0%
+ 
+Đừng<00:00:00.440><c> nói</c><00:00:00.680><c> là</c><00:00:00.840><c> trứng</c><00:00:01.079><c> gà</c><00:00:01.280><c> nước</c><00:00:01.439><c> đường,</c><00:00:01.880><c> ở</c><00:00:02.120><c> cái</c>
+
+00:00:02.230 --> 00:00:02.240 align:start position:0%
+Đừng nói là trứng gà nước đường, ở cái
+ 
+
+00:00:02.240 --> 00:00:04.269 align:start position:0%
+Đừng nói là trứng gà nước đường, ở cái
+đội<00:00:02.440><c> sản</c><00:00:02.639><c> xuất</c><00:00:02.840><c> này,</c><00:00:03.240><c> ngày</c><00:00:03.600><c> được</c><00:00:03.840><c> ăn</c><00:00:03.919><c> lưng</c><00:00:04.080><c> lửng</c>
+
+00:00:04.269 --> 00:00:04.279 align:start position:0%
+đội sản xuất này, ngày được ăn lưng lửng
+ 
+
+00:00:04.279 --> 00:00:06.389 align:start position:0%
+đội sản xuất này, ngày được ăn lưng lửng
+bụng<00:00:04.480><c> bảy</c><00:00:04.680><c> tám</c><00:00:04.880><c> phần</c><00:00:05.279><c> đã</c><00:00:05.440><c> là</c><00:00:05.600><c> do</c><00:00:05.759><c> mẹ</c><00:00:06.000><c> chồng</c><00:00:06.200><c> vun</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+bụng bảy tám phần đã là do mẹ chồng vun
+ 
+
+00:00:06.399 --> 00:00:09.000 align:start position:0%
+bụng bảy tám phần đã là do mẹ chồng vun
+vén<00:00:06.640><c> khéo</c><00:00:06.879><c> rồi.</c>
+

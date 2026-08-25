@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:01.829 align:start position:0%
+ 
+Các<00:00:00.280><c> bạn</c><00:00:00.399><c> cần</c><00:00:00.599><c> chụp</c><00:00:00.799><c> hình</c><00:00:00.919><c> quảng</c><00:00:01.120><c> cáo</c><00:00:01.480><c> cứ</c><00:00:01.680><c> gọi</c>
+
+00:00:01.829 --> 00:00:01.839 align:start position:0%
+Các bạn cần chụp hình quảng cáo cứ gọi
+ 
+
+00:00:01.839 --> 00:00:05.560 align:start position:0%
+Các bạn cần chụp hình quảng cáo cứ gọi
+anh<00:00:02.000><c> Andy</c><00:00:02.280><c> tới</c><00:00:02.440><c> chụp</c><00:00:02.639><c> nhá.</c><00:00:02.960><c> Bao</c><00:00:03.120><c> đẹp</c><00:00:03.320><c> luôn.</c>
+

@@ -1,0 +1,48 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:02.430 align:start position:0%
+ 
+Cái<00:00:00.280><c> tên</c><00:00:00.560><c> lăng</c><00:00:00.799><c> cha</c><00:00:01.040><c> cả</c><00:00:01.400><c> thì</c><00:00:01.599><c> gần</c><00:00:01.839><c> như</c><00:00:02.240><c> người</c>
+
+00:00:02.430 --> 00:00:02.440 align:start position:0%
+Cái tên lăng cha cả thì gần như người
+ 
+
+00:00:02.440 --> 00:00:04.590 align:start position:0%
+Cái tên lăng cha cả thì gần như người
+Sài<00:00:02.639><c> Gòn</c><00:00:02.840><c> ai</c><00:00:03.040><c> cũng</c><00:00:03.159><c> nghe</c><00:00:03.360><c> qua.</c><00:00:04.040><c> Nhưng</c><00:00:04.279><c> cũng</c><00:00:04.440><c> có</c>
+
+00:00:04.590 --> 00:00:04.600 align:start position:0%
+Sài Gòn ai cũng nghe qua. Nhưng cũng có
+ 
+
+00:00:04.600 --> 00:00:06.789 align:start position:0%
+Sài Gòn ai cũng nghe qua. Nhưng cũng có
+nhiều<00:00:04.799><c> người</c><00:00:05.000><c> thắc</c><00:00:05.240><c> mắc</c><00:00:05.799><c> ủa</c><00:00:06.200><c> ở</c><00:00:06.399><c> đây</c><00:00:06.520><c> có</c><00:00:06.640><c> thấy</c>
+
+00:00:06.789 --> 00:00:06.799 align:start position:0%
+nhiều người thắc mắc ủa ở đây có thấy
+ 
+
+00:00:06.799 --> 00:00:08.990 align:start position:0%
+nhiều người thắc mắc ủa ở đây có thấy
+cái<00:00:06.919><c> lăn</c><00:00:07.120><c> nào</c><00:00:07.279><c> đâu?</c><00:00:07.839><c> Sao</c><00:00:08.040><c> lại</c><00:00:08.200><c> gọi</c><00:00:08.400><c> là</c><00:00:08.559><c> lăn</c><00:00:08.760><c> cha</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+cái lăn nào đâu? Sao lại gọi là lăn cha
+ 
+
+00:00:09.000 --> 00:00:11.709 align:start position:0%
+cái lăn nào đâu? Sao lại gọi là lăn cha
+cả?<00:00:09.679><c> Bữa</c><00:00:09.920><c> nay</c><00:00:10.080><c> tôi</c><00:00:10.280><c> đi</c><00:00:10.440><c> ngang</c><00:00:10.679><c> chỗ</c><00:00:10.920><c> này</c><00:00:11.440><c> nhìn</c>
+
+00:00:11.709 --> 00:00:11.719 align:start position:0%
+cả? Bữa nay tôi đi ngang chỗ này nhìn
+ 
+
+00:00:11.719 --> 00:00:15.320 align:start position:0%
+cả? Bữa nay tôi đi ngang chỗ này nhìn
+cảnh<00:00:11.960><c> bây</c><00:00:12.160><c> giờ</c><00:00:12.320><c> mà</c><00:00:12.480><c> nhớ</c><00:00:12.679><c> chuyện</c><00:00:12.920><c> hồi</c><00:00:13.160><c> xưa.</c>
+

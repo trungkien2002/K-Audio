@@ -1,0 +1,48 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.710 align:start position:0%
+ 
+Anatomy<00:00:00.800><c> Master</c><00:00:01.199><c> Class,</c><00:00:01.680><c> Human</c><00:00:02.000><c> Anatomy</c><00:00:02.480><c> for</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+Anatomy Master Class, Human Anatomy for
+ 
+
+00:00:02.720 --> 00:00:04.950 align:start position:0%
+Anatomy Master Class, Human Anatomy for
+Artists,<00:00:03.439><c> is</c><00:00:03.600><c> a</c><00:00:03.760><c> structured</c><00:00:04.240><c> online</c><00:00:04.640><c> video</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+Artists, is a structured online video
+ 
+
+00:00:04.960 --> 00:00:06.869 align:start position:0%
+Artists, is a structured online video
+course<00:00:05.279><c> designed</c><00:00:05.600><c> to</c><00:00:05.759><c> help</c><00:00:06.000><c> artists</c><00:00:06.400><c> build</c><00:00:06.640><c> a</c>
+
+00:00:06.869 --> 00:00:06.879 align:start position:0%
+course designed to help artists build a
+ 
+
+00:00:06.879 --> 00:00:08.710 align:start position:0%
+course designed to help artists build a
+strong<00:00:07.120><c> understanding</c><00:00:07.520><c> of</c><00:00:07.680><c> human</c><00:00:08.000><c> anatomy,</c>
+
+00:00:08.710 --> 00:00:08.720 align:start position:0%
+strong understanding of human anatomy,
+ 
+
+00:00:08.720 --> 00:00:10.790 align:start position:0%
+strong understanding of human anatomy,
+proportions,<00:00:09.440><c> and</c><00:00:09.679><c> figurative</c><00:00:10.160><c> drawing</c><00:00:10.480><c> in</c><00:00:10.639><c> a</c>
+
+00:00:10.790 --> 00:00:10.800 align:start position:0%
+proportions, and figurative drawing in a
+ 
+
+00:00:10.800 --> 00:00:14.559 align:start position:0%
+proportions, and figurative drawing in a
+practical,<00:00:11.519><c> timeefficient</c><00:00:12.320><c> Hey.</c>
+

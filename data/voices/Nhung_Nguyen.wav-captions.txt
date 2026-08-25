@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.080 --> 00:00:02.030 align:start position:0%
+ 
+Đây<00:00:00.199><c> là</c><00:00:00.320><c> sản</c><00:00:00.520><c> phẩm</c><00:00:00.840><c> giả</c><00:00:01.040><c> silicon</c><00:00:01.520><c> nguyên</c><00:00:01.719><c> khối</c>
+
+00:00:02.030 --> 00:00:02.040 align:start position:0%
+Đây là sản phẩm giả silicon nguyên khối
+ 
+
+00:00:02.040 --> 00:00:03.949 align:start position:0%
+Đây là sản phẩm giả silicon nguyên khối
+được<00:00:02.280><c> phát</c><00:00:02.520><c> triển</c><00:00:02.800><c> chuyên</c><00:00:03.120><c> dành</c><00:00:03.360><c> cho</c><00:00:03.520><c> trẻ</c><00:00:03.760><c> sơ</c>
+
+00:00:03.949 --> 00:00:03.959 align:start position:0%
+được phát triển chuyên dành cho trẻ sơ
+ 
+
+00:00:03.959 --> 00:00:05.829 align:start position:0%
+được phát triển chuyên dành cho trẻ sơ
+sinh,<00:00:04.400><c> trọng</c><00:00:04.640><c> lượng</c><00:00:04.920><c> chỉ</c><00:00:05.160><c> khoảng</c><00:00:05.440><c> một</c><00:00:05.640><c> quả</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+sinh, trọng lượng chỉ khoảng một quả
+ 
+
+00:00:05.839 --> 00:00:08.270 align:start position:0%
+sinh, trọng lượng chỉ khoảng một quả
+nho,<00:00:06.319><c> bé</c><00:00:06.560><c> ngậm</c><00:00:06.759><c> chắc</c><00:00:07.000><c> dễ</c><00:00:07.200><c> dàng,</c><00:00:07.640><c> không</c><00:00:07.839><c> lo</c><00:00:08.080><c> bị</c>
+
+00:00:08.270 --> 00:00:08.280 align:start position:0%
+nho, bé ngậm chắc dễ dàng, không lo bị
+ 
+
+00:00:08.280 --> 00:00:10.679 align:start position:0%
+nho, bé ngậm chắc dễ dàng, không lo bị
+rơi<00:00:08.519><c> tuộc.</c>
+

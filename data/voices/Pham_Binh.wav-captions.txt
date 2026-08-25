@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.080 --> 00:00:03.070 align:start position:0%
+ 
+Ngày<00:00:00.280><c> 30</c><00:00:00.599><c> tháng</c><00:00:00.799><c> 10</c><00:00:01.040><c> năm</c><00:00:01.920><c> 2022</c><00:00:02.440><c> tại</c><00:00:02.639><c> Đà</c><00:00:02.840><c> Lạt,</c>
+
+00:00:03.070 --> 00:00:03.080 align:start position:0%
+Ngày 30 tháng 10 năm 2022 tại Đà Lạt,
+ 
+
+00:00:03.080 --> 00:00:05.390 align:start position:0%
+Ngày 30 tháng 10 năm 2022 tại Đà Lạt,
+Thanh<00:00:03.280><c> Xuân</c><00:00:03.600><c> là</c><00:00:03.800><c> những</c><00:00:04.000><c> phút</c><00:00:04.200><c> giây</c><00:00:04.480><c> rực</c><00:00:04.759><c> rỡ</c><00:00:05.160><c> để</c>
+
+00:00:05.390 --> 00:00:05.400 align:start position:0%
+Thanh Xuân là những phút giây rực rỡ để
+ 
+
+00:00:05.400 --> 00:00:08.359 align:start position:0%
+Thanh Xuân là những phút giây rực rỡ để
+chúng<00:00:05.600><c> ta</c><00:00:05.839><c> trải</c><00:00:06.160><c> nghiệm.</c>
+

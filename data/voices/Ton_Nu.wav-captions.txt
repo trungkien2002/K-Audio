@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.320 --> 00:00:02.510 align:start position:0%
+ 
+Tiểu<00:00:00.599><c> thư</c><00:00:00.840><c> nhà</c><00:00:01.079><c> ta</c><00:00:01.280><c> là</c><00:00:01.439><c> thân</c><00:00:01.760><c> kiếm</c><00:00:02.000><c> chi</c><00:00:02.240><c> ngọc</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+Tiểu thư nhà ta là thân kiếm chi ngọc
+ 
+
+00:00:02.520 --> 00:00:05.030 align:start position:0%
+Tiểu thư nhà ta là thân kiếm chi ngọc
+diệp<00:00:02.879><c> không</c><00:00:03.080><c> ngửi</c><00:00:03.320><c> nổi</c><00:00:03.560><c> thứ</c><00:00:03.800><c> này.</c><00:00:04.200><c> Máu</c><00:00:04.400><c> cút</c><00:00:04.640><c> đi,</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+diệp không ngửi nổi thứ này. Máu cút đi,
+ 
+
+00:00:05.040 --> 00:00:08.919 align:start position:0%
+diệp không ngửi nổi thứ này. Máu cút đi,
+đừng<00:00:05.240><c> để</c><00:00:05.440><c> mùi</c><00:00:05.600><c> hối</c><00:00:05.799><c> làm</c><00:00:05.960><c> người</c><00:00:06.080><c> ta</c><00:00:06.200><c> ngộp</c><00:00:06.440><c> chết.</c>
+

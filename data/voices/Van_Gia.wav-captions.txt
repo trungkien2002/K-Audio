@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.320 --> 00:00:02.389 align:start position:0%
+ 
+Ta<00:00:00.480><c> nuôi</c><00:00:00.719><c> Trịnh</c><00:00:00.919><c> Động</c><00:00:01.120><c> Sơ</c><00:00:01.480><c> và</c><00:00:01.680><c> mẹ</c><00:00:01.880><c> hắn</c><00:00:02.159><c> bao</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+Ta nuôi Trịnh Động Sơ và mẹ hắn bao
+ 
+
+00:00:02.399 --> 00:00:04.630 align:start position:0%
+Ta nuôi Trịnh Động Sơ và mẹ hắn bao
+nhiêu<00:00:02.560><c> năm</c><00:00:02.760><c> nay,</c><00:00:03.320><c> đến</c><00:00:03.520><c> cái</c><00:00:03.760><c> tai</c><00:00:03.959><c> còn</c><00:00:04.160><c> chưa</c><00:00:04.400><c> từng</c>
+
+00:00:04.630 --> 00:00:04.640 align:start position:0%
+nhiêu năm nay, đến cái tai còn chưa từng
+ 
+
+00:00:04.640 --> 00:00:06.670 align:start position:0%
+nhiêu năm nay, đến cái tai còn chưa từng
+chạm<00:00:04.880><c> qua,</c><00:00:05.359><c> sao</c><00:00:05.560><c> lại</c><00:00:05.720><c> gọi</c><00:00:05.920><c> là</c><00:00:06.080><c> chiếm</c><00:00:06.319><c> hời</c><00:00:06.560><c> của</c>
+
+00:00:06.670 --> 00:00:06.680 align:start position:0%
+chạm qua, sao lại gọi là chiếm hời của
+ 
+
+00:00:06.680 --> 00:00:09.200 align:start position:0%
+chạm qua, sao lại gọi là chiếm hời của
+hắn<00:00:06.919><c> được?</c>
+

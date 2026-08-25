@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.160 --> 00:00:02.389 align:start position:0%
+ 
+Cậu<00:00:00.399><c> Tư</c><00:00:00.599><c> đi</c><00:00:00.760><c> bộ</c><00:00:00.960><c> đội,</c><00:00:01.400><c> còn</c><00:00:01.560><c> cô</c><00:00:01.800><c> con</c><00:00:01.920><c> gái</c><00:00:02.159><c> duy</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+Cậu Tư đi bộ đội, còn cô con gái duy
+ 
+
+00:00:02.399 --> 00:00:04.510 align:start position:0%
+Cậu Tư đi bộ đội, còn cô con gái duy
+nhất<00:00:02.520><c> thì</c><00:00:02.679><c> gả</c><00:00:02.879><c> lên</c><00:00:03.080><c> thành</c><00:00:03.280><c> phố,</c><00:00:03.919><c> nhờ</c><00:00:04.160><c> quan</c><00:00:04.359><c> hệ</c>
+
+00:00:04.510 --> 00:00:04.520 align:start position:0%
+nhất thì gả lên thành phố, nhờ quan hệ
+ 
+
+00:00:04.520 --> 00:00:06.349 align:start position:0%
+nhất thì gả lên thành phố, nhờ quan hệ
+nhà<00:00:04.720><c> chồng</c><00:00:04.960><c> mà</c><00:00:05.160><c> kiếm</c><00:00:05.400><c> được</c><00:00:05.560><c> một</c><00:00:05.759><c> công</c><00:00:05.920><c> việc</c><00:00:06.200><c> thể</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+nhà chồng mà kiếm được một công việc thể
+ 
+
+00:00:06.359 --> 00:00:08.799 align:start position:0%
+nhà chồng mà kiếm được một công việc thể
+diện.
+

@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:02.590 align:start position:0%
+ 
+Đm<00:00:00.359><c> Tương</c><00:00:00.640><c> diễn</c><00:00:01.040><c> tuy</c><00:00:01.319><c> có</c><00:00:01.560><c> quyền</c><00:00:01.920><c> có</c><00:00:02.120><c> thế,</c><00:00:02.440><c> nhưng</c>
+
+00:00:02.590 --> 00:00:02.600 align:start position:0%
+Đm Tương diễn tuy có quyền có thế, nhưng
+ 
+
+00:00:02.600 --> 00:00:06.240 align:start position:0%
+Đm Tương diễn tuy có quyền có thế, nhưng
+là<00:00:02.760><c> một</c><00:00:02.879><c> tên</c><00:00:03.120><c> tàn</c><00:00:03.360><c> bạo</c><00:00:03.600><c> vô</c><00:00:03.879><c> nhân</c><00:00:04.080><c> tín.</c>
+

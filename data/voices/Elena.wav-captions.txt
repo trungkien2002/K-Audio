@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.280 --> 00:00:02.629 align:start position:0%
+ 
+Ucrania<00:00:00.799><c> ha</c><00:00:01.040><c> intensificado</c><00:00:01.839><c> sus</c><00:00:02.040><c> ataques</c><00:00:02.440><c> de</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+Ucrania ha intensificado sus ataques de
+ 
+
+00:00:02.639 --> 00:00:05.030 align:start position:0%
+Ucrania ha intensificado sus ataques de
+largo<00:00:02.960><c> alcance</c><00:00:03.480><c> durante</c><00:00:03.879><c> varias</c><00:00:04.240><c> semanas,</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+largo alcance durante varias semanas,
+ 
+
+00:00:05.040 --> 00:00:07.190 align:start position:0%
+largo alcance durante varias semanas,
+atacando<00:00:05.600><c> especialmente</c><00:00:06.319><c> las</c><00:00:06.600><c> instalaciones</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+atacando especialmente las instalaciones
+ 
+
+00:00:07.200 --> 00:00:09.270 align:start position:0%
+atacando especialmente las instalaciones
+de<00:00:07.439><c> exportación</c><00:00:07.960><c> de</c><00:00:08.120><c> petróleo</c><00:00:08.679><c> como</c><00:00:08.880><c> nunca</c>
+
+00:00:09.270 --> 00:00:09.280 align:start position:0%
+de exportación de petróleo como nunca
+ 
+
+00:00:09.280 --> 00:00:12.200 align:start position:0%
+de exportación de petróleo como nunca
+antes.<00:00:09.480><c> Yes.</c>
+

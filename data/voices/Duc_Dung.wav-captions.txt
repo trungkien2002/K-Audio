@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.399 --> 00:00:02.550 align:start position:0%
+ 
+vốn<00:00:00.760><c> dĩ</c><00:00:00.960><c> còn</c><00:00:01.199><c> thương</c><00:00:01.439><c> hại</c><00:00:01.719><c> ngươi</c><00:00:01.920><c> cô</c><00:00:02.120><c> độc</c><00:00:02.399><c> không</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+vốn dĩ còn thương hại ngươi cô độc không
+ 
+
+00:00:02.560 --> 00:00:04.749 align:start position:0%
+vốn dĩ còn thương hại ngươi cô độc không
+nơi<00:00:02.760><c> nương</c><00:00:03.000><c> tựa,</c><00:00:03.399><c> không</c><00:00:03.600><c> ngờ</c><00:00:03.800><c> lại</c><00:00:04.000><c> Vu</c><00:00:04.160><c> liêm</c><00:00:04.400><c> sĩ</c>
+
+00:00:04.749 --> 00:00:04.759 align:start position:0%
+nơi nương tựa, không ngờ lại Vu liêm sĩ
+ 
+
+00:00:04.759 --> 00:00:07.600 align:start position:0%
+nơi nương tựa, không ngờ lại Vu liêm sĩ
+tham<00:00:05.000><c> lam</c><00:00:05.200><c> đến</c><00:00:05.319><c> mức</c><00:00:05.480><c> này.</c>
+

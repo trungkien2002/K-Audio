@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.080 --> 00:00:02.110 align:start position:0%
+ 
+Cho<00:00:00.240><c> dù</c><00:00:00.399><c> cô</c><00:00:00.599><c> ta</c><00:00:00.760><c> muốn</c><00:00:00.960><c> gả,</c><00:00:01.640><c> tôi</c><00:00:01.839><c> cũng</c><00:00:01.959><c> không</c>
+
+00:00:02.110 --> 00:00:02.120 align:start position:0%
+Cho dù cô ta muốn gả, tôi cũng không
+ 
+
+00:00:02.120 --> 00:00:04.440 align:start position:0%
+Cho dù cô ta muốn gả, tôi cũng không
+muốn<00:00:02.280><c> cưới.</c>
+

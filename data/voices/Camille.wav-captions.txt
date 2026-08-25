@@ -1,0 +1,48 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.240 --> 00:00:02.270 align:start position:0%
+ 
+Dans<00:00:00.440><c> une</c><00:00:00.640><c> lettre</c><00:00:00.960><c> au</c><00:00:01.120><c> congrès</c><00:00:01.439><c> :</c><00:00:01.760><c> vendredi,</c>
+
+00:00:02.270 --> 00:00:02.280 align:start position:0%
+Dans une lettre au congrès : vendredi,
+ 
+
+00:00:02.280 --> 00:00:04.590 align:start position:0%
+Dans une lettre au congrès : vendredi,
+Donald<00:00:02.639><c> Trump</c><00:00:03.240><c> affirme</c><00:00:03.760><c> pouvoir</c><00:00:04.160><c> se</c><00:00:04.319><c> passer</c>
+
+00:00:04.590 --> 00:00:04.600 align:start position:0%
+Donald Trump affirme pouvoir se passer
+ 
+
+00:00:04.600 --> 00:00:06.710 align:start position:0%
+Donald Trump affirme pouvoir se passer
+de<00:00:04.799><c> son</c><00:00:05.000><c> autorisation,</c><00:00:06.000><c> jugeant</c><00:00:06.399><c> que</c><00:00:06.520><c> le</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+de son autorisation, jugeant que le
+ 
+
+00:00:06.720 --> 00:00:09.230 align:start position:0%
+de son autorisation, jugeant que le
+conflit<00:00:07.080><c> avec</c><00:00:07.279><c> l'Iran</c><00:00:07.600><c> n'est</c><00:00:07.839><c> plus</c><00:00:08.120><c> actif.</c>
+
+00:00:09.230 --> 00:00:09.240 align:start position:0%
+conflit avec l'Iran n'est plus actif.
+ 
+
+00:00:09.240 --> 00:00:10.749 align:start position:0%
+conflit avec l'Iran n'est plus actif.
+une<00:00:09.440><c> position</c><00:00:09.920><c> contestée</c><00:00:10.440><c> par</c><00:00:10.599><c> les</c>
+
+00:00:10.749 --> 00:00:10.759 align:start position:0%
+une position contestée par les
+ 
+
+00:00:10.759 --> 00:00:13.240 align:start position:0%
+une position contestée par les
+démocrates.
+

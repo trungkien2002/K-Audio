@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:01.870 align:start position:0%
+ 
+Máy<00:00:00.480><c> cho</c><00:00:00.599><c> bạn</c><00:00:00.799><c> đó.</c><00:00:01.040><c> Mình</c><00:00:01.199><c> biết</c><00:00:01.360><c> chính</c><00:00:01.520><c> xác</c><00:00:01.719><c> bạn</c>
+
+00:00:01.870 --> 00:00:01.880 align:start position:0%
+Máy cho bạn đó. Mình biết chính xác bạn
+ 
+
+00:00:01.880 --> 00:00:04.800 align:start position:0%
+Máy cho bạn đó. Mình biết chính xác bạn
+sẽ<00:00:02.000><c> cần</c><00:00:02.200><c> làm</c><00:00:02.360><c> gì</c><00:00:02.520><c> nè.</c>
+

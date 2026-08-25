@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.199 --> 00:00:02.710 align:start position:0%
+ 
+Xin<00:00:00.440><c> chào,</c><00:00:00.960><c> tôi</c><00:00:01.160><c> là</c><00:00:01.360><c> Be,</c><00:00:01.959><c> rất</c><00:00:02.159><c> vui</c><00:00:02.360><c> được</c><00:00:02.520><c> gặp</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+Xin chào, tôi là Be, rất vui được gặp
+ 
+
+00:00:02.720 --> 00:00:05.399 align:start position:0%
+Xin chào, tôi là Be, rất vui được gặp
+bạn<00:00:02.879><c> hôm</c><00:00:03.080><c> nay.</c>
+

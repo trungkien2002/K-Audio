@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:02.149 align:start position:0%
+ 
+Không<00:00:00.440><c> chỉ</c><00:00:00.719><c> nhanh</c><00:00:00.960><c> chóng</c><00:00:01.240><c> đưa</c><00:00:01.520><c> khách</c><00:00:01.760><c> đến</c><00:00:01.920><c> bệnh</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+Không chỉ nhanh chóng đưa khách đến bệnh
+ 
+
+00:00:02.159 --> 00:00:04.990 align:start position:0%
+Không chỉ nhanh chóng đưa khách đến bệnh
+viện,<00:00:03.000><c> anh</c><00:00:03.199><c> Đạo</c><00:00:03.520><c> còn</c><00:00:03.760><c> quyết</c><00:00:04.000><c> định</c><00:00:04.240><c> ở</c><00:00:04.480><c> lại</c><00:00:04.759><c> giúp</c>
+
+00:00:04.990 --> 00:00:05.000 align:start position:0%
+viện, anh Đạo còn quyết định ở lại giúp
+ 
+
+00:00:05.000 --> 00:00:08.270 align:start position:0%
+viện, anh Đạo còn quyết định ở lại giúp
+đỡ<00:00:05.640><c> khi</c><00:00:06.000><c> thấy</c><00:00:06.200><c> cô</c><00:00:06.440><c> gái</c><00:00:06.759><c> đi</c><00:00:06.960><c> một</c><00:00:07.200><c> mình</c><00:00:07.799><c> không</c><00:00:08.080><c> có</c>
+
+00:00:08.270 --> 00:00:08.280 align:start position:0%
+đỡ khi thấy cô gái đi một mình không có
+ 
+
+00:00:08.280 --> 00:00:10.920 align:start position:0%
+đỡ khi thấy cô gái đi một mình không có
+người<00:00:08.519><c> thân.</c>
+

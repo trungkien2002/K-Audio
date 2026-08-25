@@ -32,9 +32,8 @@ config/*.json
 *.pem
 *.key
 
-# Downloaded models and private/reference voices
+# Downloaded model weights
 data/models/
-data/voices/
 
 # User media, generated output and logs
 output/
@@ -56,6 +55,11 @@ tmp/
 *.srt
 *.vtt
 
+# Voice assets are distributed with K-Audio. Keep WAV files despite the
+# general generated-audio rule above; Git LFS handles their binary content.
+!data/voices/
+!data/voices/*.wav
+
 # Local Story Maker assets (may contain copyrighted/user media)
 assets/intro/*
 assets/outro/*
@@ -64,4 +68,3 @@ assets/overlays/*
 # Local audit/debug artifacts
 _debug_clean.py
 hemtruyen_chapter.html
-

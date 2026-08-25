@@ -1,0 +1,8 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:03.280 align:start position:0%
+ 
+thừa<00:00:00.560><c> kế</c><00:00:00.840><c> 800.000</c>
+

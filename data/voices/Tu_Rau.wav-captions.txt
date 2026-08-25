@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.399 --> 00:00:03.030 align:start position:0%
+ 
+Thằng<00:00:00.719><c> Ngóc</c><00:00:01.079><c> này,</c><00:00:01.640><c> chẳng</c><00:00:01.959><c> phải</c><00:00:02.159><c> từ</c><00:00:02.399><c> nhỏ</c><00:00:02.679><c> con</c><00:00:02.879><c> đã</c>
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+Thằng Ngóc này, chẳng phải từ nhỏ con đã
+ 
+
+00:00:03.040 --> 00:00:05.789 align:start position:0%
+Thằng Ngóc này, chẳng phải từ nhỏ con đã
+mong<00:00:03.280><c> nhớ</c><00:00:03.560><c> Tư</c><00:00:03.760><c> Ngọc</c><00:00:04.040><c> sao?</c><00:00:04.759><c> Đến</c><00:00:05.000><c> kinh</c><00:00:05.319><c> thành</c><00:00:05.600><c> một</c>
+
+00:00:05.789 --> 00:00:05.799 align:start position:0%
+mong nhớ Tư Ngọc sao? Đến kinh thành một
+ 
+
+00:00:05.799 --> 00:00:10.080 align:start position:0%
+mong nhớ Tư Ngọc sao? Đến kinh thành một
+năm<00:00:06.000><c> rồi,</c><00:00:06.560><c> mau</c><00:00:06.879><c> định</c><00:00:07.160><c> liệu</c><00:00:07.399><c> đi</c><00:00:07.560><c> thôi.</c>
+

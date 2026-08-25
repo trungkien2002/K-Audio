@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.080 --> 00:00:01.949 align:start position:0%
+ 
+vừa<00:00:00.359><c> định</c><00:00:00.520><c> mở</c><00:00:00.719><c> miệng</c><00:00:00.919><c> hỏi</c><00:00:01.160><c> thì</c><00:00:01.319><c> chồng</c><00:00:01.560><c> cô</c><00:00:01.760><c> từ</c>
+
+00:00:01.949 --> 00:00:01.959 align:start position:0%
+vừa định mở miệng hỏi thì chồng cô từ
+ 
+
+00:00:01.959 --> 00:00:03.750 align:start position:0%
+vừa định mở miệng hỏi thì chồng cô từ
+bên<00:00:02.120><c> ngoài</c><00:00:02.320><c> đi</c><00:00:02.520><c> vào.</c><00:00:03.000><c> Người</c><00:00:03.159><c> nhà</c><00:00:03.360><c> quê</c><00:00:03.600><c> không</c>
+
+00:00:03.750 --> 00:00:03.760 align:start position:0%
+bên ngoài đi vào. Người nhà quê không
+ 
+
+00:00:03.760 --> 00:00:05.550 align:start position:0%
+bên ngoài đi vào. Người nhà quê không
+câu<00:00:03.959><c> nệ</c><00:00:04.200><c> Tiểu</c><00:00:04.400><c> tiết,</c><00:00:04.680><c> dù</c><00:00:04.920><c> sao</c><00:00:05.120><c> trong</c><00:00:05.319><c> phòng</c>
+
+00:00:05.550 --> 00:00:05.560 align:start position:0%
+câu nệ Tiểu tiết, dù sao trong phòng
+ 
+
+00:00:05.560 --> 00:00:09.080 align:start position:0%
+câu nệ Tiểu tiết, dù sao trong phòng
+cũng<00:00:05.799><c> đã</c><00:00:05.920><c> giọng</c><00:00:06.160><c> dệt</c><00:00:06.399><c> sạch</c><00:00:06.640><c> sẽ.</c>
+

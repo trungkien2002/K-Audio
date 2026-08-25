@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.160 --> 00:00:02.550 align:start position:0%
+ 
+Cái<00:00:00.359><c> nắng</c><00:00:00.599><c> hè</c><00:00:00.880><c> chói</c><00:00:01.240><c> trang</c><00:00:01.480><c> thiêu</c><00:00:01.719><c> đốt.</c><00:00:02.360><c> Đừng</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+Cái nắng hè chói trang thiêu đốt. Đừng
+ 
+
+00:00:02.560 --> 00:00:04.950 align:start position:0%
+Cái nắng hè chói trang thiêu đốt. Đừng
+nói<00:00:02.760><c> là</c><00:00:02.960><c> đứng</c><00:00:03.199><c> phơi</c><00:00:03.439><c> mình</c><00:00:03.639><c> giữa</c><00:00:03.879><c> trời,</c><00:00:04.560><c> ngay</c><00:00:04.799><c> cả</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+nói là đứng phơi mình giữa trời, ngay cả
+ 
+
+00:00:04.960 --> 00:00:07.190 align:start position:0%
+nói là đứng phơi mình giữa trời, ngay cả
+nấp<00:00:05.200><c> dưới</c><00:00:05.440><c> bóng</c><00:00:05.600><c> cây</c><00:00:06.040><c> cũng</c><00:00:06.240><c> nóng</c><00:00:06.520><c> đến</c><00:00:06.720><c> mức</c><00:00:06.919><c> mồ</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+nấp dưới bóng cây cũng nóng đến mức mồ
+ 
+
+00:00:07.200 --> 00:00:10.960 align:start position:0%
+nấp dưới bóng cây cũng nóng đến mức mồ
+hôi<00:00:07.600><c> tuôn</c><00:00:07.919><c> ra</c><00:00:08.160><c> như</c><00:00:08.360><c> tắm.</c>
+

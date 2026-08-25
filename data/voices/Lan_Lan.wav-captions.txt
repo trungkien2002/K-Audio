@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.040 --> 00:00:01.910 align:start position:0%
+ 
+Đây<00:00:00.160><c> là</c><00:00:00.240><c> tổng</c><00:00:00.440><c> giám</c><00:00:00.599><c> đốc</c><00:00:00.840><c> đặt</c><00:00:01.000><c> gia</c><00:00:01.160><c> phúc,</c><00:00:01.719><c> cô</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+Đây là tổng giám đốc đặt gia phúc, cô
+ 
+
+00:00:01.920 --> 00:00:03.270 align:start position:0%
+Đây là tổng giám đốc đặt gia phúc, cô
+đừng<00:00:02.040><c> có</c><00:00:02.200><c> thể</c><00:00:02.320><c> sang</c><00:00:02.520><c> và</c><00:00:02.600><c> bắt</c><00:00:02.760><c> hoàng</c><00:00:02.879><c> làm</c><00:00:03.040><c> họ</c>
+
+00:00:03.270 --> 00:00:03.280 align:start position:0%
+đừng có thể sang và bắt hoàng làm họ
+ 
+
+00:00:03.280 --> 00:00:05.600 align:start position:0%
+đừng có thể sang và bắt hoàng làm họ
+nha.
+

@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:02.750 align:start position:0%
+ 
+Từ<00:00:00.320><c> sân</c><00:00:00.560><c> bay</c><00:00:00.840><c> đi</c><00:00:01.079><c> xe</c><00:00:01.400><c> về</c><00:00:01.640><c> cổng</c><00:00:01.880><c> vườn</c><00:00:02.159><c> quốc</c><00:00:02.399><c> gia</c>
+
+00:00:02.750 --> 00:00:02.760 align:start position:0%
+Từ sân bay đi xe về cổng vườn quốc gia
+ 
+
+00:00:02.760 --> 00:00:05.070 align:start position:0%
+Từ sân bay đi xe về cổng vườn quốc gia
+khoảng<00:00:03.080><c> hơn</c><00:00:03.320><c> hai</c><00:00:03.560><c> tiếng,</c><00:00:04.200><c> nơi</c><00:00:04.440><c> được</c><00:00:04.600><c> công</c><00:00:04.839><c> nhận</c>
+
+00:00:05.070 --> 00:00:05.080 align:start position:0%
+khoảng hơn hai tiếng, nơi được công nhận
+ 
+
+00:00:05.080 --> 00:00:08.680 align:start position:0%
+khoảng hơn hai tiếng, nơi được công nhận
+là<00:00:05.279><c> địa</c><00:00:05.520><c> danh</c><00:00:05.799><c> di</c><00:00:06.040><c> sản</c><00:00:06.319><c> thế</c><00:00:06.520><c> giới.</c>
+

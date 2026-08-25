@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "Voice_name": "Watcharaphon Bankok",
+      "Transcript": "ให้เปลี่ยนเป็นloginด้วยรหัสแทน แต่พอกรอกรหัสปุ๊บมันบอกว่าผิด เราก็นึกว่าหรือเราลืมรหัส พอกดเปลี่ยนรหัสใหม่เปลี่ยนจนเสร็จพอกรอกเข้าก็ระบบบอกว่าผิดพลาดอีก",
+      "Gender": "Male",
+      "Language": "Thai",
+      "Location": "Bankok, Thailand",
+      "Style": "storytelling, delicate, emotional"
+    }
+  ]
+}

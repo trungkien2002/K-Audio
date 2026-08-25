@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.160 --> 00:00:01.910 align:start position:0%
+ 
+Tống<00:00:00.320><c> Vệ</c><00:00:00.520><c> quốc</c><00:00:00.719><c> dồn</c><00:00:00.919><c> hết</c><00:00:01.120><c> tâm</c><00:00:01.319><c> trí</c><00:00:01.560><c> vào</c><00:00:01.719><c> thằng</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+Tống Vệ quốc dồn hết tâm trí vào thằng
+ 
+
+00:00:01.920 --> 00:00:03.750 align:start position:0%
+Tống Vệ quốc dồn hết tâm trí vào thằng
+con<00:00:02.040><c> út,</c><00:00:02.440><c> chỉ</c><00:00:02.679><c> thấy</c><00:00:02.800><c> con</c><00:00:02.960><c> trai</c><00:00:03.159><c> béo</c><00:00:03.360><c> tốt</c><00:00:03.560><c> chỗ</c>
+
+00:00:03.750 --> 00:00:03.760 align:start position:0%
+con út, chỉ thấy con trai béo tốt chỗ
+ 
+
+00:00:03.760 --> 00:00:05.710 align:start position:0%
+con út, chỉ thấy con trai béo tốt chỗ
+nào<00:00:03.959><c> cũng</c><00:00:04.160><c> đẹp,</c><00:00:04.520><c> tuy</c><00:00:04.759><c> trả</c><00:00:04.920><c> lời</c><00:00:05.080><c> vợ</c><00:00:05.319><c> nhưng</c><00:00:05.480><c> đầu</c>
+
+00:00:05.710 --> 00:00:05.720 align:start position:0%
+nào cũng đẹp, tuy trả lời vợ nhưng đầu
+ 
+
+00:00:05.720 --> 00:00:08.520 align:start position:0%
+nào cũng đẹp, tuy trả lời vợ nhưng đầu
+óc<00:00:05.839><c> vẫn</c><00:00:06.000><c> lơ</c><00:00:06.200><c> đánh.</c>
+

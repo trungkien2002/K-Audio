@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.240 --> 00:00:04.430 align:start position:0%
+ 
+Vì<00:00:01.199><c> quá</c><00:00:01.439><c> bức</c><00:00:01.640><c> xúc</c><00:00:02.399><c> nên</c><00:00:02.639><c> mình</c><00:00:02.960><c> phải</c><00:00:03.959><c> biên</c><00:00:04.200><c> bài</c>
+
+00:00:04.430 --> 00:00:04.440 align:start position:0%
+Vì quá bức xúc nên mình phải biên bài
+ 
+
+00:00:04.440 --> 00:00:07.070 align:start position:0%
+Vì quá bức xúc nên mình phải biên bài
+này<00:00:04.960><c> để</c><00:00:05.160><c> vạch</c><00:00:05.359><c> trần</c><00:00:05.600><c> thối</c><00:00:05.799><c> ngụy</c><00:00:06.000><c> biện.</c><00:00:06.759><c> Sự</c><00:00:06.919><c> đạo</c>
+
+00:00:07.070 --> 00:00:07.080 align:start position:0%
+này để vạch trần thối ngụy biện. Sự đạo
+ 
+
+00:00:07.080 --> 00:00:11.310 align:start position:0%
+này để vạch trần thối ngụy biện. Sự đạo
+đức<00:00:07.279><c> giả</c><00:00:08.080><c> của</c><00:00:08.559><c> các</c><00:00:08.719><c> bài</c><00:00:08.920><c> học</c><00:00:09.080><c> cuộc</c><00:00:09.240><c> sống</c><00:00:10.160><c> mang</c>
+
+00:00:11.310 --> 00:00:11.320 align:start position:0%
+đức giả của các bài học cuộc sống mang
+ 
+
+00:00:11.320 --> 00:00:13.509 align:start position:0%
+đức giả của các bài học cuộc sống mang
+triết<00:00:11.559><c> lý</c><00:00:11.759><c> phương</c><00:00:12.000><c> Tây</c><00:00:12.599><c> nhưng</c><00:00:12.840><c> được</c><00:00:13.000><c> cài</c><00:00:13.240><c> cắm</c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+triết lý phương Tây nhưng được cài cắm
+ 
+
+00:00:13.519 --> 00:00:16.559 align:start position:0%
+triết lý phương Tây nhưng được cài cắm
+hết<00:00:13.719><c> sức</c><00:00:13.880><c> tinh</c><00:00:14.120><c> vi.</c><00:00:14.400><c> Yeah.</c>
+

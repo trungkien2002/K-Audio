@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.199 --> 00:00:02.669 align:start position:0%
+ 
+Trời<00:00:00.440><c> hôm</c><00:00:00.599><c> nay</c><00:00:00.719><c> nóng</c><00:00:01.000><c> quá,</c><00:00:01.560><c> phải</c><00:00:01.760><c> rủ</c><00:00:02.040><c> anh</c><00:00:02.399><c> ấy</c><00:00:02.480><c> đi</c>
+
+00:00:02.669 --> 00:00:02.679 align:start position:0%
+Trời hôm nay nóng quá, phải rủ anh ấy đi
+ 
+
+00:00:02.679 --> 00:00:05.439 align:start position:0%
+Trời hôm nay nóng quá, phải rủ anh ấy đi
+uống<00:00:02.879><c> cà</c><00:00:03.120><c> phê</c><00:00:03.280><c> vậy.</c>
+

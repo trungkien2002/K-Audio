@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:02.350 align:start position:0%
+ 
+Không<00:00:00.359><c> tại,</c><00:00:00.719><c> con</c><00:00:00.919><c> đã</c><00:00:01.079><c> học</c><00:00:01.240><c> được</c><00:00:01.480><c> toàn</c><00:00:01.800><c> bộ</c><00:00:02.040><c> tuyệt</c>
+
+00:00:02.350 --> 00:00:02.360 align:start position:0%
+Không tại, con đã học được toàn bộ tuyệt
+ 
+
+00:00:02.360 --> 00:00:05.840 align:start position:0%
+Không tại, con đã học được toàn bộ tuyệt
+học<00:00:02.560><c> y</c><00:00:02.840><c> võ</c><00:00:03.040><c> của</c><00:00:03.240><c> thầy</c><00:00:03.520><c> rồi.</c>
+

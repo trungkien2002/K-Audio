@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.080 --> 00:00:02.750 align:start position:0%
+ 
+Trong<00:00:00.280><c> lúc</c><00:00:00.520><c> hỗn</c><00:00:00.799><c> loạn</c><00:00:01.079><c> mê</c><00:00:01.360><c> man,</c><00:00:02.159><c> ta</c><00:00:02.360><c> nghe</c><00:00:02.600><c> thấy</c>
+
+00:00:02.750 --> 00:00:02.760 align:start position:0%
+Trong lúc hỗn loạn mê man, ta nghe thấy
+ 
+
+00:00:02.760 --> 00:00:06.070 align:start position:0%
+Trong lúc hỗn loạn mê man, ta nghe thấy
+vị<00:00:03.000><c> tiểu</c><00:00:03.240><c> thần</c><00:00:03.480><c> y</c><00:00:03.719><c> này</c><00:00:04.319><c> muốn</c><00:00:04.600><c> chữa</c><00:00:04.920><c> bệnh</c><00:00:05.240><c> cho</c><00:00:05.480><c> ta</c>
+
+00:00:06.070 --> 00:00:06.080 align:start position:0%
+vị tiểu thần y này muốn chữa bệnh cho ta
+ 
+
+00:00:06.080 --> 00:00:09.919 align:start position:0%
+vị tiểu thần y này muốn chữa bệnh cho ta
+là<00:00:06.279><c> con</c><00:00:06.480><c> cứ</c><00:00:06.680><c> cản</c><00:00:07.000><c> trở</c><00:00:07.279><c> người</c><00:00:07.520><c> ta</c><00:00:07.720><c> à?</c>
+

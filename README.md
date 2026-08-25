@@ -83,22 +83,29 @@ pip install "pyannote.audio>=3.1"
 
 Nhập Hugging Face token trong **Cài đặt**. Tài khoản của bạn phải được cấp quyền truy cập model pyannote tương ứng.
 
-## Thêm giọng tham chiếu
+## Dữ liệu giọng đi kèm
 
-Tạo `data/voices` và đặt mỗi giọng theo cấu trúc:
+K-Audio đi kèm các profile giọng trong `data/voices`. File WAV được quản lý bằng Git LFS, vì vậy hãy cài Git LFS trước khi clone nếu cần tải đầy đủ audio:
+
+```powershell
+git lfs install
+git lfs pull
+```
+
+Mỗi profile thường có cấu trúc:
 
 ```text
 data/voices/
 ├── Ten_Giong.wav
-├── Ten_Giong.txt
+├── Ten_Giong.wav-captions.txt
 └── Ten_Giong.json
 ```
 
 - `.wav`: audio tham chiếu sạch.
-- `.txt`: nội dung được đọc trong audio.
+- `.wav-captions.txt`: nội dung được đọc trong audio.
 - `.json`: metadata của giọng.
 
-Chỉ sử dụng giọng của chính bạn hoặc giọng đã được cho phép. Dữ liệu trong `data/voices` không được Git theo dõi.
+Bạn có thể thêm profile riêng theo cùng cấu trúc. Chỉ sử dụng giọng của chính bạn hoặc giọng đã được cho phép; việc một file được cung cấp trong repository không loại bỏ nghĩa vụ tuân thủ quyền riêng tư, quyền nhân thân và pháp luật tại nơi sử dụng.
 
 ## Chạy ứng dụng
 
@@ -146,7 +153,7 @@ K-Audio/
 └── run.bat
 ```
 
-Model, voice, API key, nội dung người dùng và output không nằm trong repository.
+Model weights, API key, nội dung người dùng và output không nằm trong repository. Các profile giọng mặc định trong `data/voices` được quản lý bằng Git LFS.
 
 ## Đóng góp
 
@@ -154,7 +161,7 @@ Issue và pull request đều được hoan nghênh.
 
 1. Fork repository và tạo branch từ `main`.
 2. Giữ thay đổi tập trung vào một vấn đề cụ thể.
-3. Không commit API key, model weights, voice cá nhân hoặc nội dung có bản quyền.
+3. Không commit API key, model weights, voice chưa được cho phép hoặc nội dung có bản quyền.
 4. Thêm hoặc cập nhật test khi thay đổi logic.
 5. Chạy toàn bộ test trước khi gửi pull request.
 6. Mô tả rõ phần đã kiểm tra runtime và phần chỉ được kiểm tra tĩnh.

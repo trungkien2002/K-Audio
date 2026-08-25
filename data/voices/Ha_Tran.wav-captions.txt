@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.080 --> 00:00:02.110 align:start position:0%
+ 
+cần<00:00:00.320><c> có</c><00:00:00.520><c> những</c><00:00:00.680><c> thiết</c><00:00:00.919><c> bị</c><00:00:01.120><c> giá</c><00:00:01.360><c> cao</c><00:00:01.719><c> dẫn</c><00:00:01.920><c> đến</c>
+
+00:00:02.110 --> 00:00:02.120 align:start position:0%
+cần có những thiết bị giá cao dẫn đến
+ 
+
+00:00:02.120 --> 00:00:04.070 align:start position:0%
+cần có những thiết bị giá cao dẫn đến
+chi<00:00:02.320><c> phí</c><00:00:02.560><c> cấu</c><00:00:02.800><c> trúc</c><00:00:03.000><c> và</c><00:00:03.199><c> duy</c><00:00:03.439><c> trì</c><00:00:03.639><c> thiết</c><00:00:03.879><c> bị</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+chi phí cấu trúc và duy trì thiết bị
+ 
+
+00:00:04.080 --> 00:00:07.359 align:start position:0%
+chi phí cấu trúc và duy trì thiết bị
+cao,<00:00:04.440><c> tiêu</c><00:00:04.720><c> hao</c><00:00:04.920><c> nhiều</c><00:00:05.160><c> điện</c>
+

@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.040 --> 00:00:02.070 align:start position:0%
+ 
+Anh<00:00:00.240><c> cảm</c><00:00:00.440><c> thấy</c><00:00:00.599><c> đại</c><00:00:00.760><c> tiểu</c><00:00:00.960><c> thư</c><00:00:01.120><c> như</c><00:00:01.319><c> tôi</c><00:00:01.880><c> không</c>
+
+00:00:02.070 --> 00:00:02.080 align:start position:0%
+Anh cảm thấy đại tiểu thư như tôi không
+ 
+
+00:00:02.080 --> 00:00:05.040 align:start position:0%
+Anh cảm thấy đại tiểu thư như tôi không
+xứng<00:00:02.320><c> với</c><00:00:02.440><c> anh</c><00:00:02.600><c> hay</c><00:00:02.760><c> sao?</c>
+

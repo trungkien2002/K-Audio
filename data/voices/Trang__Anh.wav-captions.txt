@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.199 --> 00:00:03.030 align:start position:0%
+ 
+liệu<00:00:00.440><c> pháp</c><00:00:00.760><c> căn</c><00:00:01.040><c> bóng,</c><00:00:01.560><c> trẻ</c><00:00:01.839><c> hóa</c><00:00:02.159><c> da</c><00:00:02.639><c> ưu</c><00:00:02.760><c> việt</c>
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+liệu pháp căn bóng, trẻ hóa da ưu việt
+ 
+
+00:00:03.040 --> 00:00:05.470 align:start position:0%
+liệu pháp căn bóng, trẻ hóa da ưu việt
+đến<00:00:03.240><c> từ</c><00:00:03.439><c> Hàn</c><00:00:03.679><c> Quốc.</c><00:00:04.400><c> Với</c><00:00:04.640><c> công</c><00:00:04.839><c> thức</c><00:00:05.000><c> chứa</c><00:00:05.279><c> chất</c>
+
+00:00:05.470 --> 00:00:05.480 align:start position:0%
+đến từ Hàn Quốc. Với công thức chứa chất
+ 
+
+00:00:05.480 --> 00:00:09.080 align:start position:0%
+đến từ Hàn Quốc. Với công thức chứa chất
+chống<00:00:05.799><c> oxy</c><00:00:06.160><c> hóa</c><00:00:06.480><c> hàng</c><00:00:06.759><c> đầu.</c>
+

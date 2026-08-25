@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.199 --> 00:00:02.190 align:start position:0%
+ 
+Con<00:00:00.399><c> người</c><00:00:00.560><c> này</c><00:00:00.760><c> cũng</c><00:00:00.960><c> quá</c><00:00:01.199><c> thâm</c><00:00:01.439><c> sâu.</c><00:00:02.040><c> Trước</c>
+
+00:00:02.190 --> 00:00:02.200 align:start position:0%
+Con người này cũng quá thâm sâu. Trước
+ 
+
+00:00:02.200 --> 00:00:04.470 align:start position:0%
+Con người này cũng quá thâm sâu. Trước
+kia<00:00:02.360><c> đúng</c><00:00:02.560><c> là</c><00:00:02.720><c> nhìn</c><00:00:02.879><c> lầm,</c><00:00:03.480><c> cư</c><00:00:03.679><c> nhiên</c><00:00:03.879><c> có</c><00:00:04.080><c> thể</c><00:00:04.240><c> dỗ</c>
+
+00:00:04.470 --> 00:00:04.480 align:start position:0%
+kia đúng là nhìn lầm, cư nhiên có thể dỗ
+ 
+
+00:00:04.480 --> 00:00:06.470 align:start position:0%
+kia đúng là nhìn lầm, cư nhiên có thể dỗ
+ngọt<00:00:04.720><c> được</c><00:00:04.880><c> bà</c><00:00:05.040><c> mẹ</c><00:00:05.240><c> chồng</c><00:00:05.480><c> khôn</c><00:00:05.720><c> ngoan</c><00:00:05.960><c> sắc</c><00:00:06.200><c> xảo</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+ngọt được bà mẹ chồng khôn ngoan sắc xảo
+ 
+
+00:00:06.480 --> 00:00:10.120 align:start position:0%
+ngọt được bà mẹ chồng khôn ngoan sắc xảo
+kia,<00:00:06.879><c> tâm</c><00:00:07.080><c> cơ</c><00:00:07.240><c> thật</c><00:00:07.439><c> đáng</c><00:00:07.680><c> sợ.</c>
+

@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.399 --> 00:00:02.909 align:start position:0%
+ 
+ảo<00:00:00.520><c> giác</c><00:00:00.799><c> sao?</c><00:00:01.480><c> Chẳng</c><00:00:01.760><c> lẽ</c><00:00:02.080><c> đây</c><00:00:02.280><c> là</c><00:00:02.440><c> hiện</c><00:00:02.639><c> tượng</c>
+
+00:00:02.909 --> 00:00:02.919 align:start position:0%
+ảo giác sao? Chẳng lẽ đây là hiện tượng
+ 
+
+00:00:02.919 --> 00:00:04.910 align:start position:0%
+ảo giác sao? Chẳng lẽ đây là hiện tượng
+mà<00:00:03.080><c> công</c><00:00:03.280><c> pháp</c><00:00:03.480><c> ghi</c><00:00:03.679><c> rằng</c><00:00:04.080><c> tâm</c><00:00:04.319><c> cảnh</c><00:00:04.560><c> phát</c><00:00:04.759><c> sinh</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+mà công pháp ghi rằng tâm cảnh phát sinh
+ 
+
+00:00:04.920 --> 00:00:07.520 align:start position:0%
+mà công pháp ghi rằng tâm cảnh phát sinh
+vấn<00:00:05.160><c> đề?</c>
+

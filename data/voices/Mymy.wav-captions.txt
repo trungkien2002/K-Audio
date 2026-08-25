@@ -1,0 +1,48 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.359 --> 00:00:02.510 align:start position:0%
+ 
+Các<00:00:00.560><c> nhà</c><00:00:00.760><c> khoa</c><00:00:01.040><c> học</c><00:00:01.400><c> đại</c><00:00:01.560><c> học</c><00:00:01.839><c> tổng</c><00:00:02.040><c> hợp</c><00:00:02.280><c> quốc</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+Các nhà khoa học đại học tổng hợp quốc
+ 
+
+00:00:02.520 --> 00:00:05.710 align:start position:0%
+Các nhà khoa học đại học tổng hợp quốc
+gia<00:00:02.879><c> Novosibis</c><00:00:04.080><c> tạo</c><00:00:04.319><c> ra</c><00:00:04.560><c> một</c><00:00:04.759><c> loại</c><00:00:05.040><c> virus</c><00:00:05.480><c> biến</c>
+
+00:00:05.710 --> 00:00:05.720 align:start position:0%
+gia Novosibis tạo ra một loại virus biến
+ 
+
+00:00:05.720 --> 00:00:08.350 align:start position:0%
+gia Novosibis tạo ra một loại virus biến
+đổi<00:00:05.960><c> gen</c><00:00:06.200><c> thế</c><00:00:06.399><c> hệ</c><00:00:06.640><c> mới</c><00:00:07.200><c> có</c><00:00:07.399><c> khả</c><00:00:07.640><c> năng</c><00:00:07.879><c> tiêu</c><00:00:08.120><c> diệt</c>
+
+00:00:08.350 --> 00:00:08.360 align:start position:0%
+đổi gen thế hệ mới có khả năng tiêu diệt
+ 
+
+00:00:08.360 --> 00:00:11.310 align:start position:0%
+đổi gen thế hệ mới có khả năng tiêu diệt
+khối<00:00:08.599><c> u</c><00:00:08.920><c> ác</c><00:00:09.040><c> tính</c><00:00:09.599><c> và</c><00:00:09.920><c> kích</c><00:00:10.160><c> hoạt</c><00:00:10.440><c> hệ</c><00:00:10.639><c> miễn</c><00:00:10.880><c> dịch</c>
+
+00:00:11.310 --> 00:00:11.320 align:start position:0%
+khối u ác tính và kích hoạt hệ miễn dịch
+ 
+
+00:00:11.320 --> 00:00:13.829 align:start position:0%
+khối u ác tính và kích hoạt hệ miễn dịch
+dọn<00:00:11.599><c> sạch</c><00:00:12.040><c> ổ</c><00:00:12.160><c> di</c><00:00:12.360><c> căn</c><00:00:12.880><c> mà</c><00:00:13.160><c> không</c><00:00:13.360><c> làm</c><00:00:13.599><c> tổn</c>
+
+00:00:13.829 --> 00:00:13.839 align:start position:0%
+dọn sạch ổ di căn mà không làm tổn
+ 
+
+00:00:13.839 --> 00:00:17.360 align:start position:0%
+dọn sạch ổ di căn mà không làm tổn
+thương<00:00:14.080><c> tế</c><00:00:14.320><c> bào</c><00:00:14.519><c> khỏe</c><00:00:14.759><c> mạnh.</c><00:00:15.240><c> Yeah.</c>
+

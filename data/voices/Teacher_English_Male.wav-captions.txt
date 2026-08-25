@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.389 align:start position:0%
+ 
+Human<00:00:00.640><c> ancestors</c><00:00:01.280><c> had</c><00:00:01.520><c> to</c><00:00:01.680><c> make</c><00:00:01.920><c> decisions</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+Human ancestors had to make decisions
+ 
+
+00:00:02.399 --> 00:00:04.950 align:start position:0%
+Human ancestors had to make decisions
+and<00:00:02.720><c> take</c><00:00:02.879><c> actions</c><00:00:03.439><c> long</c><00:00:03.760><c> before</c><00:00:04.240><c> logic</c><00:00:04.640><c> or</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+and take actions long before logic or
+ 
+
+00:00:04.960 --> 00:00:08.470 align:start position:0%
+and take actions long before logic or
+language<00:00:05.440><c> ever</c><00:00:05.680><c> evolved.</c><00:00:06.560><c> Obviously,</c><00:00:08.000><c> audio</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+language ever evolved. Obviously, audio
+ 
+
+00:00:08.480 --> 00:00:10.709 align:start position:0%
+language ever evolved. Obviously, audio
+and<00:00:08.800><c> visual</c><00:00:09.280><c> processing</c><00:00:09.920><c> existed</c><00:00:10.400><c> long</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+and visual processing existed long
+ 
+
+00:00:10.719 --> 00:00:13.360 align:start position:0%
+and visual processing existed long
+before<00:00:11.120><c> as</c>
+

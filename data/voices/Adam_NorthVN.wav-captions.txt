@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:02.190 align:start position:0%
+ 
+đến<00:00:00.320><c> cả</c><00:00:00.520><c> thuốc</c><00:00:00.799><c> vãi</c><00:00:01.079><c> trên</c><00:00:01.280><c> đất</c><00:00:01.560><c> cũng</c><00:00:01.760><c> phải</c><00:00:01.920><c> nhặt</c>
+
+00:00:02.190 --> 00:00:02.200 align:start position:0%
+đến cả thuốc vãi trên đất cũng phải nhặt
+ 
+
+00:00:02.200 --> 00:00:05.269 align:start position:0%
+đến cả thuốc vãi trên đất cũng phải nhặt
+về<00:00:02.399><c> để</c><00:00:02.639><c> sắc</c><00:00:02.879><c> uống.</c><00:00:03.800><c> Nàng</c><00:00:04.160><c> thật</c><00:00:04.440><c> sự</c><00:00:04.720><c> đã</c><00:00:04.920><c> nghèo</c>
+
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+về để sắc uống. Nàng thật sự đã nghèo
+ 
+
+00:00:05.279 --> 00:00:08.799 align:start position:0%
+về để sắc uống. Nàng thật sự đã nghèo
+đến<00:00:05.480><c> mức</c><00:00:05.720><c> này</c><00:00:05.920><c> rồi</c><00:00:06.200><c> sao?</c>
+

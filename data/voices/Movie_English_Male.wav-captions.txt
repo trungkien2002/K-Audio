@@ -1,0 +1,32 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.869 align:start position:0%
+ 
+As<00:00:00.480><c> a</c><00:00:00.640><c> result,</c><00:00:01.280><c> visual</c><00:00:01.839><c> processing</c><00:00:02.320><c> goes</c><00:00:02.639><c> much</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+As a result, visual processing goes much
+ 
+
+00:00:02.879 --> 00:00:04.950 align:start position:0%
+As a result, visual processing goes much
+deeper<00:00:03.520><c> and</c><00:00:03.760><c> is</c><00:00:03.919><c> intertwined</c><00:00:04.560><c> with</c><00:00:04.720><c> the</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+deeper and is intertwined with the
+ 
+
+00:00:04.960 --> 00:00:06.550 align:start position:0%
+deeper and is intertwined with the
+region<00:00:05.200><c> of</c><00:00:05.359><c> the</c><00:00:05.520><c> brain</c><00:00:05.759><c> where</c><00:00:06.000><c> there</c><00:00:06.160><c> is</c><00:00:06.319><c> no</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+region of the brain where there is no
+ 
+
+00:00:06.560 --> 00:00:09.440 align:start position:0%
+region of the brain where there is no
+logic<00:00:06.879><c> or</c><00:00:07.200><c> language.</c>
+

@@ -1,0 +1,24 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.120 --> 00:00:02.070 align:start position:0%
+ 
+Đúng<00:00:00.280><c> là</c><00:00:00.399><c> hồi</c><00:00:00.599><c> xưa</c><00:00:00.919><c> anh</c><00:00:01.160><c> bất</c><00:00:01.319><c> tài</c><00:00:01.560><c> thiệt</c><00:00:01.880><c> không</c>
+
+00:00:02.070 --> 00:00:02.080 align:start position:0%
+Đúng là hồi xưa anh bất tài thiệt không
+ 
+
+00:00:02.080 --> 00:00:03.669 align:start position:0%
+Đúng là hồi xưa anh bất tài thiệt không
+lo<00:00:02.240><c> được</c><00:00:02.360><c> cho</c><00:00:02.520><c> em</c><00:00:02.960><c> để</c><00:00:03.080><c> em</c><00:00:03.199><c> phải</c><00:00:03.320><c> chịu</c><00:00:03.480><c> thiệt</c>
+
+00:00:03.669 --> 00:00:03.679 align:start position:0%
+lo được cho em để em phải chịu thiệt
+ 
+
+00:00:03.679 --> 00:00:05.840 align:start position:0%
+lo được cho em để em phải chịu thiệt
+thòi.
+
