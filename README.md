@@ -1,32 +1,38 @@
 # K-Audio
 
-K-Audio là ứng dụng desktop Python/PySide6 hỗ trợ quy trình làm truyện nói và video: tải truyện, tách/làm sạch chương, tổng hợp giọng nói, clone giọng, xử lý nhiều người nói, tạo phụ đề và dựng video.
+K-Audio là ứng dụng desktop mã nguồn mở dành cho quy trình sản xuất truyện nói, audiobook, phụ đề và video. Ứng dụng được viết bằng Python/PySide6, tập trung vào thao tác trực quan, xử lý hàng loạt và khả năng chạy AI cục bộ.
 
-> Repository chỉ chứa mã nguồn. Model AI, giọng mẫu, API key, nội dung truyện và file xuất **không được đưa lên GitHub**.
+## Tính năng
 
-## Tính năng chính
-
-- Crawl truyện từ các website được hỗ trợ và lưu thành chương.
+- Crawl truyện từ nhiều website được hỗ trợ.
 - Đọc TXT, EPUB, DOCX và PDF; tách và làm sạch chương.
-- TTS bằng Edge TTS, gTTS và OmniVoice; xuất WAV và SRT.
-- Quản lý/clone giọng, phân tích nhiều người nói bằng Whisper và pyannote.
-- Tạo/chỉnh SRT, VTT và style phụ đề.
-- Story Maker và dựng video bằng FFmpeg với transition, Ken Burns và overlay.
-- Cấu hình API cho các dịch vụ AI tùy chọn.
-
-Chỉ sử dụng nội dung và giọng nói mà bạn sở hữu hoặc có quyền sử dụng. Không dùng voice cloning để mạo danh, lừa đảo hoặc xâm phạm quyền riêng tư.
+- TTS bằng Edge TTS, Google TTS và OmniVoice.
+- Quản lý giọng mẫu, voice cloning và điều chỉnh audio.
+- Nhận dạng giọng nói, diarization và xử lý nhiều nhân vật.
+- Tạo, chỉnh sửa và style phụ đề SRT/VTT.
+- Story Maker, chia cảnh và dựng video bằng FFmpeg.
+- Chạy offline sau khi model đã được tải.
 
 ## Yêu cầu
 
 - Windows 10/11 64-bit.
-- Python 3.11 hoặc 3.12 được khuyến nghị. Dự án đã được kiểm tra cú pháp và UI trên Python 3.14, nhưng một số gói AI tùy chọn có thể chưa hỗ trợ 3.14.
-- FFmpeg và `ffprobe` có trong biến môi trường `PATH` nếu dùng ghép âm thanh, phụ đề hoặc video.
-- GPU NVIDIA/CUDA được khuyến nghị cho OmniVoice và nhận dạng giọng nói; CPU vẫn dùng được nhưng chậm.
-- Khoảng 5–8 GB dung lượng trống cho môi trường Python và model OmniVoice.
+- Python 3.11 hoặc 3.12 được khuyến nghị.
+- FFmpeg nếu sử dụng audio, phụ đề hoặc video.
+- GPU NVIDIA/CUDA được khuyến nghị cho OmniVoice, Whisper và diarization.
+- Khoảng 5–8 GB dung lượng trống nếu cài model AI cục bộ.
+
+K-Audio có thể chạy trên CPU, nhưng những tác vụ AI lớn sẽ chậm hơn đáng kể.
 
 ## Cài đặt
 
-Mở PowerShell tại thư mục dự án:
+### 1. Tải mã nguồn
+
+```powershell
+git clone https://github.com/trungkien2002/K-Audio.git
+cd K-Audio
+```
+
+### 2. Tạo môi trường Python
 
 ```powershell
 py -3.11 -m venv .venv
@@ -35,118 +41,133 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Nếu dùng GPU NVIDIA, nên cài `torch` và `torchaudio` đúng phiên bản CUDA theo hướng dẫn chính thức của PyTorch trước khi cài `requirements.txt`.
+Nếu dùng GPU NVIDIA, hãy cài `torch` và `torchaudio` phù hợp với phiên bản CUDA theo hướng dẫn của PyTorch trước khi cài các dependency còn lại.
 
-Tính năng phân tách người nói là tùy chọn:
+### 3. Cài FFmpeg
 
-```powershell
-pip install "pyannote.audio>=3.1"
-```
-
-Sau đó nhập Hugging Face token trong **Cài đặt**. Tài khoản/token cần được cấp quyền với model pyannote mà ứng dụng sử dụng.
-
-### Cài FFmpeg
-
-Cài FFmpeg cho Windows, thêm thư mục chứa `ffmpeg.exe` và `ffprobe.exe` vào `PATH`, rồi kiểm tra:
+Cài FFmpeg, thêm thư mục chứa `ffmpeg.exe` và `ffprobe.exe` vào biến môi trường `PATH`, sau đó kiểm tra:
 
 ```powershell
 ffmpeg -version
 ffprobe -version
 ```
 
-### Cài model OmniVoice
+### 4. Tạo cấu hình cá nhân
 
-Không commit model vào Git. Model chính khoảng 3,1 GB và ứng dụng tìm model tại:
-
-```text
-data/models/models--k2-fsa--OmniVoice/
+```powershell
+Copy-Item config/settings.example.json config/settings.json
 ```
 
-Cách được khuyến nghị là tải trực tiếp từ nguồn chính thức:
+API key và thiết lập có thể nhập trong màn hình **Cài đặt**. `config/settings.json` chỉ được lưu cục bộ và đã bị loại khỏi Git.
+
+## Cài model OmniVoice
+
+Model không được đóng gói trong repository vì có dung lượng lớn và giấy phép riêng.
 
 ```powershell
 pip install -U huggingface_hub
 hf download k2-fsa/OmniVoice --local-dir "data/models/models--k2-fsa--OmniVoice"
 ```
 
-Bạn cũng có thể mở màn hình **OmniVoice** và dùng chức năng tải model của ứng dụng khi đang online. Sau khi tải xong, bật **Offline mode** trong Cài đặt nếu không muốn ứng dụng truy cập mạng cho model.
+Bạn cũng có thể tải model từ màn hình **OmniVoice**. Sau khi tải xong, có thể bật **Offline mode** trong Cài đặt.
 
-Lưu ý giấy phép: mã OmniVoice là Apache-2.0, nhưng model pretrained hiện được tác giả công bố theo **CC-BY-NC**; audio tokenizer đi kèm còn chịu Boson Higgs Audio 2 Community License. Vì vậy không mặc định dùng model cho mục đích thương mại và không phân phối lại weights nếu chưa tự kiểm tra đầy đủ điều khoản.
+> Mã OmniVoice sử dụng Apache-2.0, nhưng model pretrained hiện được phát hành theo CC-BY-NC. Audio tokenizer đi kèm có Boson Higgs Audio 2 Community License. Hãy đọc điều khoản hiện hành trước khi sử dụng thương mại hoặc phân phối lại.
 
-### Thêm giọng mẫu
+## Diarization nhiều người nói
 
-Đặt dữ liệu giọng do bạn sở hữu quyền sử dụng trong `data/voices/`. Mỗi giọng thường gồm:
+Đây là dependency tùy chọn:
 
-```text
-Ten_Giong.wav   # audio tham chiếu sạch
-Ten_Giong.txt   # lời đọc tương ứng
-Ten_Giong.json  # metadata của giọng
+```powershell
+pip install "pyannote.audio>=3.1"
 ```
 
-Không đưa thư mục này lên GitHub. Chỉ clone giọng khi có sự đồng ý rõ ràng của người nói.
+Nhập Hugging Face token trong **Cài đặt**. Tài khoản của bạn phải được cấp quyền truy cập model pyannote tương ứng.
+
+## Thêm giọng tham chiếu
+
+Tạo `data/voices` và đặt mỗi giọng theo cấu trúc:
+
+```text
+data/voices/
+├── Ten_Giong.wav
+├── Ten_Giong.txt
+└── Ten_Giong.json
+```
+
+- `.wav`: audio tham chiếu sạch.
+- `.txt`: nội dung được đọc trong audio.
+- `.json`: metadata của giọng.
+
+Chỉ sử dụng giọng của chính bạn hoặc giọng đã được cho phép. Dữ liệu trong `data/voices` không được Git theo dõi.
 
 ## Chạy ứng dụng
 
-Sau khi đã kích hoạt môi trường ảo:
+```powershell
+.\run.bat
+```
+
+Hoặc chạy trong môi trường Python đã cài dependency:
 
 ```powershell
 python main.py
 ```
 
-Hoặc chạy `run.bat`. Script này kiểm tra Python, cài dependency trong `requirements.txt`, tạo các thư mục cần thiết rồi mở K-Audio.
+## Sử dụng nhanh
 
-Quy trình ngắn:
-
-1. Vào **Cài đặt**, chọn thiết bị, thư mục output và nhập API key nếu cần.
+1. Mở **Cài đặt** để chọn thiết bị, thư mục output và API provider.
 2. Dùng **Crawl** hoặc **Tách chương** để chuẩn bị văn bản.
-3. Dùng **Làm sạch** và kiểm tra bản xem trước trước khi ghi kết quả.
-4. Chọn **TTS Cơ bản**, **OmniVoice**, **Voice Clone** hoặc **Multi-Speaker** để tạo audio.
-5. Dùng **Style Sub** và **Story Maker** nếu cần phụ đề/video.
+3. Mở **Làm sạch**, chọn quy tắc và xem bản so sánh trước khi ghi file.
+4. Tạo audio bằng **TTS Cơ bản**, **OmniVoice**, **Voice Clone** hoặc **Multi-Speaker**.
+5. Chỉnh phụ đề trong **Style Sub**.
+6. Dùng **Story Maker** để chia cảnh và dựng video.
 
-API key được lưu cục bộ trong `config/settings.json`. File này đã bị `.gitignore` loại khỏi Git. Có thể sao chép `config/settings.example.json` thành `config/settings.json` rồi nhập giá trị qua giao diện; tuyệt đối không commit file thật.
+Nên thử một chương ngắn trước khi chạy hàng loạt.
 
-## Kiểm tra
+## Kiểm thử
 
 ```powershell
 python -m unittest discover -s tests -v
 ```
 
-Một bài kiểm tra pass không bảo đảm các dịch vụ online, model lớn, GPU hoặc website crawl vẫn hoạt động; các phần đó cần được kiểm tra trong chính môi trường sử dụng.
+Test tự động không bao phủ toàn bộ dịch vụ online, website, GPU hoặc model lớn. Khi đóng góp cho những phần này, hãy ghi rõ môi trường và cách kiểm tra thủ công trong pull request.
 
-## Những gì được đưa lên GitHub
+## Cấu trúc dự án
 
-| Nhóm | Đưa lên | Ghi chú |
-|---|---:|---|
-| `app/`, `process/`, `tests/`, `main.py` | Có | Mã ứng dụng và kiểm thử |
-| `omnivoice/` | Có điều kiện | Mã upstream Apache-2.0; phải giữ license/attribution |
-| `requirements.txt`, `run.bat` | Có | Cài đặt và khởi chạy |
-| `assets/` rỗng hoặc asset tự sở hữu | Có | Chỉ commit icon/font/media có quyền phân phối |
-| `data/models/` | Không | Hơn 3 GB; model có giấy phép riêng, dùng local |
-| `data/voices/` | Không | Dữ liệu giọng riêng tư và quyền nhân thân |
-| `config/*.json` | Không | Có API key, token, đường dẫn và session người dùng |
-| `config/settings.example.json` | Có | Mẫu rỗng, không chứa credential |
-| Audio, video, SRT/VTT và output | Không | Nội dung người dùng/file sinh ra |
-| `__pycache__`, `.pyc`, venv, log, temp | Không | File máy cục bộ/file sinh tự động |
-| `_debug_clean.py`, `hemtruyen_chapter.html`, `0711.srt` | Không | Artifact debug/mẫu cục bộ chưa xác minh bản quyền |
-
-Các quy tắc trên đã được cấu hình trong `.gitignore`. Trước mỗi lần push nên chạy:
-
-```powershell
-git status --short
-git ls-files | Select-String -Pattern "config/.*\.json|data/models|data/voices|\.(wav|mp3|mp4|srt)$"
+```text
+K-Audio/
+├── app/                 # Giao diện PySide6
+├── process/             # Crawl, cleaner, TTS, STT, phụ đề và video
+├── omnivoice/           # Mã OmniVoice được tích hợp
+├── tests/               # Kiểm thử tự động
+├── config/              # Cấu hình mẫu
+├── assets/              # Icon, font và media tùy chọn
+├── main.py              # Entrypoint
+├── requirements.txt
+└── run.bat
 ```
 
-## Bản quyền và giấy phép
+Model, voice, API key, nội dung người dùng và output không nằm trong repository.
 
-- Phần mã K-Audio chưa có nguồn gốc bên thứ ba được xác minh: xem `LICENSE`. Không có quyền tái sử dụng mặc định ngoài quyền xem/fork do GitHub cung cấp.
-- Mã vendored trong `omnivoice/`: Apache License 2.0, bản quyền các tác giả/upstream tương ứng.
-- Model `k2-fsa/OmniVoice`: model card hiện ghi CC-BY-NC; không nằm trong repository này.
-- Audio tokenizer: Boson Higgs Audio 2 Community License; không nằm trong repository này.
-- Edge TTS, Google TTS, FFmpeg, PyTorch, Hugging Face, pyannote và các dependency khác là dự án/dịch vụ độc lập với điều khoản riêng.
+## Đóng góp
 
-Người đóng góp phải bảo đảm họ có quyền với code, truyện, hình, nhạc, font, giọng và dataset đã thêm. README này không phải tư vấn pháp lý; trước khi thương mại hóa cần tự rà soát điều khoản hiện hành của từng model và dịch vụ.
+Issue và pull request đều được hoan nghênh.
 
-## Trạng thái
+1. Fork repository và tạo branch từ `main`.
+2. Giữ thay đổi tập trung vào một vấn đề cụ thể.
+3. Không commit API key, model weights, voice cá nhân hoặc nội dung có bản quyền.
+4. Thêm hoặc cập nhật test khi thay đổi logic.
+5. Chạy toàn bộ test trước khi gửi pull request.
+6. Mô tả rõ phần đã kiểm tra runtime và phần chỉ được kiểm tra tĩnh.
 
-K-Audio đang trong giai đoạn hoàn thiện. Hãy sao lưu dữ liệu trước khi xử lý hàng loạt và kiểm tra output trước khi xuất bản.
+## Sử dụng có trách nhiệm
 
+- Không dùng voice cloning để mạo danh, lừa đảo hoặc gây nhầm lẫn.
+- Không crawl, sao chép hoặc xuất bản nội dung khi chưa có quyền.
+- Không chia sẻ API key, Hugging Face token hoặc dữ liệu giọng cá nhân.
+- Tuân thủ điều khoản của website, model, API provider và pháp luật áp dụng.
+
+## Giấy phép
+
+Mã nguồn K-Audio được phát hành theo [Apache License 2.0](LICENSE).
+
+Model, model weights, tokenizer, voice, nội dung người dùng và dịch vụ bên thứ ba không tự động thuộc giấy phép K-Audio. Xem [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) để biết chi tiết.
